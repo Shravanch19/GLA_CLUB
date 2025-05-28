@@ -2,7 +2,7 @@ gla_front/node_modules
 gla_front/.env
 
 gla_back/node_modules
-gla_back/.env
+# gla_back/.env
 
 gla_dv/venv
 gla_dv/.env
